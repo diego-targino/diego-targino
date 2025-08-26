@@ -42,8 +42,8 @@
 ### 🎮 Gráfico de Contribuições  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diego-targino/diego-targino/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diego-targino/diego-targino/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diego-targino/diego-targino/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diego-targino/diego-targino/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diego-targino/diego-targino/output/snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/diego-targino/diego-targino/output/snake.svg">
 </picture>
 
