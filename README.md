@@ -35,9 +35,6 @@
   <a href="https://instagram.com/diego.targin0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
-  <a href="https://discord.gg/targin0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="discord logo" />
-  </a>
 </div>
 
 ---
