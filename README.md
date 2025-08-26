@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Diego Targino  
 
-💻 Desenvolvedor Backend apaixonado por **arquitetura limpa, boas práticas e integração entre serviços**.  
+💻 Desenvolvedor Full Stack apaixonado por **arquitetura limpa, boas práticas e integração entre serviços**.  
 🚀 Trabalho principalmente com **C# | .NET | RabbitMQ | Sql Server | Mongo DB**  
 🌱 Atualmente estudando **TypeScript e React** para expandir minhas habilidades no frontend.  
 
