@@ -1,9 +1,9 @@
-name: Generate snake contribution graph
+name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
-  workflow_dispatch:
+    - cron: "0 0 * * *"   
+  workflow_dispatch:       
 
 jobs:
   build:
@@ -12,15 +12,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake Game
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: diego-targino
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg
+            dist/snake.svg
+            dist/snake-dark.svg
 
-      - name: Push to output branch
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
