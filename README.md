@@ -18,7 +18,7 @@
 ### 🛠️ Tecnologias & Ferramentas  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,py,postgresql,git,github" height="45" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,py,postgresql,git,github,rabbitmq,mongodb,redis" height="45" />
 </div>
 
 ---
