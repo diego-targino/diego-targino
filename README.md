@@ -9,8 +9,8 @@
 ### 📊 Estatísticas do GitHub  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diego-targino&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-targino&layout=compact&theme=dracula&hide_border=false" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=diego-targino&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=diego-targino&layout=compact&theme=tokyonight" height="160" />
 </div>
 
 ---
